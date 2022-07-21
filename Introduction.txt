@@ -1,0 +1,75 @@
+Introduction 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Hi I am Harinath,
+I am working as Devops Engineer in SmartERP from 3+ years.
+I have worked on various tools like
+ git, github -- for maintaing project environments like dev,qa,prod and their versions.
+jenkins- for writing CI/CD Pipeline and automation.
+
+ansible- for configuration management for servers through playbooks written yaml
+
+docker- containersation 
+
+terraform - for building infrastructure in aws by writing modules.
+
+AWS - we are using AWS as cloud. I have worked on various aws services like IAM, VPC, S3, Ec2, ELB, Lambda, cloudfront, EBS, etc..
+
+python- I have worked on python.Intially when i started my carrer in SmartERP,I was working on ETL Project.In which I have written python code
+for loading data from API to database tables, where we are using python oops,loops and  various python packages like requests,sql alchemy,py-exasol,etc..
+Also I have worked on internal project Data Transform Tool(DTT) for Smarterp using Python. As of now we are using python scripts for automating in Lambda.
+
+Roles and responsibilities -
+Our project is ETL kind of application.
+Front end is built using angular js , backend is built using java. and microservices are implemented in it.
+we have 3 environments dev qa and prod.
+we are responsible for maintaining 3 environments and versions in github using git.
+Also responsible for writing CI/CD pipeline for automatic the continuous integration and continous deployment using jenkins.
+Also wrote playbooks for configuration management using Ansible.
+Also I have wrote terraform modules for infrastructure building in AWS.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                 Modified by Anand
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Hi Anand, I am Harinath.
+
+Overall I have 3+ years of experience. In that first 1 year I worked as a Python Developer. Now, from past 2 years I am working as a DevOps Engineer.
+
+I am currently working with SamrtERP Solutions. 
+
+Coming to my Experience details , I have good experience on DevOps and AWS Technologies. 
+
+Specific to DevOps, I worked with different tools like GitHub as Source Code Management (SCM) tool and Maven as a Build tool.
+For CI/CD purpouse, We used Jenkins and for Configuration Management (CM) tool we used Ansible. We used, Docker as a Containarization tool and Docker Swarm as a Orchistration tool.
+Coming to the monitoring tool, We used Zabbix and Cloud Watch. Also we used, Shell scripting and Python Scripting for day-to-day automation work.
+
+Coming to the AWS experience, I worked with all well known services like EC2, S3, AutoScaling, Load Balancing, VPC, IAM etc..Also I am working with Infrastructure as a service tool like Terraform to 
+automate the Infra creation on AWS end.
+
+coming to the python experience- Intially when I started my carrer,I worked on ETL Project.In which I have written python code
+for loading data from API to database tables, where we are using python oops,loops and  various python packages like requests,sql alchemy,py-exasol,etc..
+Also I have worked on various internal projects using Python. 
+As of now we are using python scripts for automating day to day activaties and also to write some lambda functions.
+
+Coming to Roles and responsibilies and Day-to-activities : 
+---------------------------------------------------------------------------------
+
+- As a DevOps engineer, I need to setup the CI/CD pipeline for all the microservices. Which include, GitHub repo creation with proper branching stratogy and Integrating github with Jenkins.
+and also I am responsible for creating the Jenkins jobs. Need to create a Ansible playbook for automagting the software installation, Application deployemnt.
+
+- Responsible to write the Docker files for converting the application into a docker image.
+- Responsible to write Python/Shell-script automation scripts to automate the day-to-day activities.
+- Also I am resposnible for setting up the Zabbix server and adding agents to the main server.
+- Now, We are working on Terraform automation part for automating the infra creation for various environments.
+
+- Other responsibilities like, Application Devployment, Trouble shooting the issues and maintainig high availability of the application etc..
+
+
+
+
+
+ 
+
+
+
+
+
